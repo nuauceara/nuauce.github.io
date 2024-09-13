@@ -108,7 +108,7 @@ img.rounded {
 .slides {
   color: #fff;
   fill: #fff;
-  font-family: "Roboto", sans-serif;
+  font-family: "Syne", sans-serif;
   -webkit-hyphens: none;
       -ms-hyphens: none;
           hyphens: none;
@@ -7361,7 +7361,7 @@ p.remind-43 {
   font-weight: 600;
   line-height: 1;
   margin-bottom: 10px;
-  font-family: serif;
+  font-family: sans-serif;
 }
 
 .author-79 {
