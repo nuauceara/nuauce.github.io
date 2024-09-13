@@ -5194,7 +5194,7 @@ body {
 }
 
 .blue {
-  background: #2196F3 !important;
+  background: #00307C !important;
   color: #fff !important;
 }
 .blue svg {
@@ -5202,18 +5202,18 @@ body {
 }
 
 .text-blue {
-  color: #2196F3 !important;
+  color: #00307C !important;
 }
 .text-blue.button svg {
-  fill: #2196F3 !important;
+  fill: #00307C !important;
 }
 
 .stroke.button.blue {
-  color: #2196F3 !important;
-  border-color: #2196F3 !important;
+  color: #00307C !important;
+  border-color: #00307C !important;
 }
 .stroke.button.blue svg {
-  fill: #2196F3 !important;
+  fill: #00307C !important;
 }
 
 .cyan {
